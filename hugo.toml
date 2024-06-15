@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://soeren.me"
+baseURL = "https://s01ren.github.io/Blog/"
 theme = "hugo-simple"
 languageCode = "en"
 title = "Soren's Blog"
