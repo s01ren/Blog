@@ -2,7 +2,7 @@
 title: "Slash Pages"
 ---
 
-- [`/About`](/about)
+- [`/About`](../about)
 - [`/Blogroll`](/blogroll)
 - `/Coffee`
 - [`/Colophon`](/colophon)
