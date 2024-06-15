@@ -132,5 +132,3 @@ I am not so happy with the edgy design of 12, but wanted to support the idea of 
 
 # Fun Fact
 It might not be the case for everyone, but at least for me it looks the iPhones are more _sustainable_. While I had the three Android phones for roughly 1.6 years each, my average iPhones usage was 3.5 years.
-
----

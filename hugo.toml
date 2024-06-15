@@ -1,54 +1,32 @@
 # Basic config
+#baseURL = "https://soeren.me/"
 baseURL = "https://s01ren.github.io/Blog/"
-theme = "hugo-simple"
-languageCode = "en"
 title = "Soren's Blog"
 
+theme = "simple-soeren"
 
-# https://github.com/gohugoio/hugo/issues/12152
-capitalizeListTitles = false
+languageCode = "en-US"
 
-[permalinks]
-blog = "/:slugorfilename/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
-
-[params]
-title = "Hugo Simple"
-description = "Hugo Simple Demo"
-favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-hideRSSLink = false
-
-[params.author]
-name = "soren"
-email = "blog@soeren.me"
 
 [[menu.main]]
 name = "Home"
-pageRef = "/blog"
+pageRef = "/"
 weight = 10
 [[menu.main]]
 name = "Slashes"
 pageRef = "/slashes"
 weight = 20
 
-[services.rss]
-limit = 42
 
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en-US'
+    languageName = 'read in English'
+    weight = 1
+  [languages.de]
+    disabled = false
+    languageCode = 'de-DE'
+    languageName = 'in Deutsch lesen'
+  

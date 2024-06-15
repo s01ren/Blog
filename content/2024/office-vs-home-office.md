@@ -30,7 +30,7 @@ Finally, I like the setup I have at home better. The [chair is more comfortable,
 
 On the other hand, being in the office with colleagues is undoubtedly beneficial. There is the social interaction (something I really missed beginning of 2020), the spontaneous meetings in the cafeteria or the elevator and of course the overhearing of conversations that might influence your own work. It’s easier to jump into an ongoing conversation instead of thinking who might be a good person to contact for this particular problem.
 
-I also like having the possibility of after-work gatherings. Talking with colleagues out of the office, pushed me into [buying my first automatic watch](/first-automatic-watch/).
+I also like having the possibility of after-work gatherings. Talking with colleagues out of the office, pushed me into [buying my first automatic watch](/2023/first-automatic-watch/).
 
 Further plus, you always have someone to have lunch with. For me, this is really important. Sitting alone in front of a meal - most likely doing something on the phone while eating, does not sound like an enjoyable lunch break.
 

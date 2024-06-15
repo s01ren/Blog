@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+  {{ $dateFormat := .Site.Params.dateFormat | default "2006-01-02" }}
+
+  {{if .Params.post }}
+    <p><time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time>
+    {{ end }}
+    {{ if .IsTranslated }}
+    {{ range .Translations }} | <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a> {{ end}}
+    {{ end }}</p>
+
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
