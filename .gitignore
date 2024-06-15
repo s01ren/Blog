@@ -1,0 +1,21 @@
+# Mac Stuff
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Hugo
+.hugo_build.lock
+.settings/
+bin/
+bin-debug/
+bin-release/
+public/
+*.swf
+*.air
+*.ipa
+*.apk
+
+
+# Themes Example
+themes/hugo-simple/exampleSite
