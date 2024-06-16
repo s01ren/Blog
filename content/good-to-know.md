@@ -8,7 +8,7 @@ Personally, I have made quite some efforts to maintain privacy in the Internet w
 
 However, I want to remind you that whenever you access a file on a server (like this web site), the activity may be stored in the server's logfiles. For this website, server logs have been disabled. You can read more about this here: https://manual.uberspace.de/web-logs/
 
-As already mentioned above, this website **does not store any cookies** on your machine. You can verify this using a tool like CookieMetrix: https://www.cookiemetrix.com
+As mentioned above, this website **does not store any cookies** on your machine. You can verify this using a tool like CookieMetrix: https://www.cookiemetrix.com
 
 
 # License & Credit
@@ -23,6 +23,6 @@ In short, this means that **you are free to**:
 **As long as you**:
 
   - **give appropriate credit**. An acceptable attribution would be something like this: 
-  `<p>Credit to <a href="https://gluecko.se">soeren</a> for the original work.</p>`
+  `<p>Credit to <a href="https://gluecko.se"> soeren </a> for the original work.</p>`
   - **and share alike**. Meaning if you remix, transform or use the material to build something new, it must be shared under the same liscence as the original. 
 
