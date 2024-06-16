@@ -9,7 +9,7 @@ Here is an overview, of my slashes:
 
 - [`/About`](../about), if you want to learn a bit more about me. 
 - [`/Blogroll`](../blogroll), if you want to check out wchoch other cool blogs I read regularly. 
-- [`/Coffee`](), if you think the stuff I do is cool and want to buy me a ☕️ coffee. 
+- [`/Coffee`](https://ko-fi.com/s01ren), if you think the stuff I do is cool and want to buy me a ☕️ coffee. 
 - [`/Colophon`](../colophon), if you want to learn how this site is build. 
 - [`/Contact`](../contact), if you want to get in contact with me.
 - [`/Defaults`](/defaults)
