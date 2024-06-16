@@ -29,4 +29,8 @@ defaultContentLanguage = 'en'
     disabled = false
     languageCode = 'de-DE'
     languageName = 'in Deutsch lesen'
-  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # allow HTML in MD files
