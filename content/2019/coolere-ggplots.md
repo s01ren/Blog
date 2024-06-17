@@ -10,15 +10,13 @@ post: true
 draft: false
 ---
 
-# TidyTuesday Baden-Württemberg
-
 Leider muss ich zugeben, dass meine bisherige Beteiligung am [TidyTuesday](/tags/tidytuesday) weit hinter meinen Erwartungen zurück geblieben ist. Bisher habe ich lediglich einmal mitgemacht und das ist auch schon Monate her. 
 
 Natürlich überfliege ich trotzdem jede Woche [unzählige Tweets](https://twitter.com/search?q=%23TidyTuesday) und erfreue mich an tollen Grafiken zu verschiedenen Themen. So wie beispielsweise an dieser [super-coole Visualisierung](https://twitter.com/jakekaupp/status/1179821493393469440/photo/1), die wirklich Lust darauf gemacht hat, mal wieder was mit Karten zu machen. 
 
 Und da ich mit ein bisschen Glück demnächst wieder Vollzeit-[Baden-Württemberger](/tags/baden-wuerttemberg) werde, werden wir uns nicht Pizza-Restaurants in NYC sondern was aus dem lokaleren Datenbestand anschauen. 
 
-In diesem Blog-Post möchte ich zeigen, wie sich Visualisierungen in meinem Workflow entwickeln, wie ich von ``ggplot() + geom_point()`` zu etwas halbwegs ansehnlichem komme. Dass manche Schritte dabei ein Fall für [@accidential aRt](https://twitter.com/accidental__art) sind, versteht sich vermutlich von selbst :wink:
+In diesem Blog-Post möchte ich zeigen, wie sich Visualisierungen in meinem Workflow entwickeln, wie ich von ``ggplot() + geom_point()`` zu etwas halbwegs ansehnlichem komme. Dass manche Schritte dabei ein Fall für [@accidential aRt](https://twitter.com/accidental__art) sind, versteht sich vermutlich von selbst 😅
 
 ## Daten sammeln
 

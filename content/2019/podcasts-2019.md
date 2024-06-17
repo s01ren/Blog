@@ -19,7 +19,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
 
 <table>
   <tr>
-    <td><img src="http://ichef.bbci.co.uk/images/ic/3000x3000/p076bclf.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/bcab5018-f4ef-4668-890b-3c4dc4ca61e3" target="_blank">
         <b>13 minutes to the moon</b>
@@ -30,7 +29,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://www.bitsundso.de/wp-content/uploads/2012/05/bitsundso1400.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/bb2086b6-98ca-481b-a7fe-527e54e098cf" target="_blank">
         <b>Bits und so</b>
@@ -40,7 +38,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.heise.de/ct/imgs/04/2/4/7/1/4/6/6/155884780_271c090230-a3950538b3592314.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/11a76cc2-311c-4311-a6f9-0e170ca67e66" target="_blank">
         <b>c't uplink</b>
@@ -50,7 +47,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://chaosradio.de/wp-content/uploads/2018/10/Cover-1.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/8d7329f1-bc30-446f-8a0e-666d108fea54" target="_blank">
         <b>Chaosradio</b>
@@ -61,7 +57,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://cre.fm/files/2018/12/CRE-logo-cover-2400px-web.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/ec3ed1ef-f070-4a82-a94a-a7a2625b2242" target="_blank">
         <b>CRE: Technik, Kultur, Gesellschaft</b>
@@ -72,7 +67,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,s_qHsC8XyPM82CL9nbSb-24qOeuHvRWLi0xbswuwNlu4=/https://cdn.podigee.com/uploads/u1637/810256c9-b60d-4656-8778-c244aa8d90a5.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/ff18dc69-68c0-423b-8fb6-bf76035acf96" target="_blank">
         <b>Das Thema</b>
@@ -82,7 +76,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://static.libsyn.com/p/assets/2/9/3/8/2938570bb173ccbc/DataSkeptic-Podcast-1A.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/3ab3add4-ee19-47fe-961c-efc58d558f54" target="_blank">
         <b>Data Skeptic</b>
@@ -92,7 +85,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://storage.buzzsprout.com/variants/iCheQJ9hzKTvTm1BXha7M5cE/8d66eb17bb7d02ca4856ab443a78f2148cafbb129f58a3c81282007c6fe24ff2?.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/a0eed48c-5ce4-4858-8c63-7844ab4c54f7" target="_blank">
         <b>DataFramed</b>
@@ -102,7 +94,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.denkangebot.org/wp-content/uploads/DA001-mp3-image.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/1c880bb1-6896-47df-aabf-21701bc3e3c2" target="_blank">
         <b>Denkangebot Podcast</b>
@@ -113,7 +104,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://static.deutschlandfunknova.de/cover/Dlfnova-iTunes/iTunes_Eine-Stunde_History_DLFNova_1400x1400.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/d179e48a-67d1-4b51-a365-a9e6c316dee4" target="_blank">
         <b>Eine Stunde History - Deutschlandfunk Nova</b>
@@ -123,8 +113,7 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   
   <!-- ------------------------------------------------------------------- -->
-  <tr>
-    <td><img src="http://www.deutschlandfunk.de/media/files/c/cf0fa9f9e216936a7dd70d5b1e316282v1.jpg" width="100" /></td>
+  <tr> 
     <td>
       <a href="https://castro.fm/podcast/ba55bbbb-d17f-48c8-8bf7-dd11de2a35cb" target="_blank">
         <b>Hintergrund - Deutschlandfunk</b>
@@ -135,7 +124,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.kuechenstud.io/lagedernation/files/2016/07/LdN_2000.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/fe33ce92-99d5-41ca-90a4-b1fe3c5d422c" target="_blank">
         <b>Lage der Nation - der Politik-Podcast aus Berlin</b>
@@ -145,7 +133,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://benjaffe.me/static/podcast-icon.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/71d044ce-711a-436d-88e8-0ca0f3fe6dea" target="_blank">
         <b>Linear Digressions</b>
@@ -155,7 +142,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://i1.sndcdn.com/avatars-000708112147-wtxqcw-original.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/383f3add-77bf-4856-8e86-2e8bf087f5d4" target="_blank">
         <b>Lobo – Der Debatten-Podcast</b>
@@ -165,7 +151,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://meta.metaebene.me/media/lnp/lnp-logo-600x600.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/1b82f41f-0407-4a3d-b2bf-79a9c40443a3" target="_blank">
         <b>Logbuch:Netzpolitik</b>
@@ -175,7 +160,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.kuechenstud.io/podcasts/medienradio/mr_2000.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/0c7cdd61-f9eb-4956-89b7-f96ef8b9e017" target="_blank">
         <b>Medienradio</b>
@@ -185,7 +169,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://minkorrekt.de/wp-content/uploads/2019/10/Logo-Minkorrekt-youtube-150x150.jpeg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/df6f290a-81c1-4d87-9d61-48391f4970e4" target="_blank">
         <b>Methodisch inkorrekt</b>
@@ -195,7 +178,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,s6lAbTEK5XkCFmUZOKJVeKRy0fvi4-BEIUIrlPcx3w3U=/https://cdn.podigee.com/uploads/u1307/254e9d92-cf1a-42f5-950b-b27cc36db908.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/90dc5908-03cc-4f2c-b7ba-51a2ccf5eb5d" target="_blank">
         <b>Servus. Grüezi. Hallo.</b>
@@ -206,7 +188,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://i1.sndcdn.com/avatars-000708137533-i64q8b-original.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/492896af-a221-49e5-86a1-307a88c20653" target="_blank">
         <b>Stimmenfang – Der Politik-Podcast</b>
@@ -216,7 +197,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://i1.sndcdn.com/avatars-000404528088-29nwi3-original.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/8ddcf60a-bfea-4dbc-bcb8-5db558881e24" target="_blank">
         <b>t3n Podcast – Das wöchentliche Update für digitale Pioniere</b>
@@ -226,7 +206,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://meta.metaebene.me/media/ukw/ci/ukw-logo-1.0-1400x1400.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/951ce7d1-2933-45f8-aa64-6963d9a0996a" target="_blank">
         <b>UKW</b>
@@ -237,7 +216,6 @@ Beginnen möchte ich mit den Etablierten. Diese Podcasts habe ich bereits seit l
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,saNbM5uHut7dzILBu9h8u0yPw3nA0ShIJOQxgYe_KoWk=/https://cdn.podigee.com/uploads/u2935/0fbcc033-f203-46f0-8a7e-ba417bc933f8.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/10938a28-8e6b-4216-84f1-b8819d431c73" target="_blank">
         <b>Werkstattgespräche</b>
@@ -258,7 +236,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,sw5MERZOnWtqxU0p1bePmDYG48s_U5FPC0uua2TqjE80=/https://cdn.podigee.com/uploads/u735/40df9203-7168-476b-879b-e31c54f98657.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/4becc50f-0984-4bbd-9fbe-26a001280110" target="_blank">
         <b>Alles gesagt?</b>
@@ -269,7 +246,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://codes.uber.space/wp-content/uploads/2018/05/cst_logo.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/ec459609-e1cc-4081-9370-14678d7478d3" target="_blank">
         <b>Codestammtisch</b>
@@ -280,7 +256,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.dw.com/image/18856047_7.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/92d4dea1-6c76-4afc-b1ef-3a7af3fe4a35" target="_blank">
         <b>Das sagt man so!</b>
@@ -291,7 +266,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,sJYHnfmpU-OpsgDHryxkXJyghG4w7R854tnk972aPzqw=/https://cdn.podigee.com/uploads/u735/8a0c6bf8-bd04-4a5c-b99a-f4373d9d794b.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/b40be533-f482-43e7-b08d-3e187cf4e7f7" target="_blank">
         <b>Die Schaulustigen</b>
@@ -302,7 +276,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://images.podigee.com/0x,sNhq4PnrpNVqGgtKtKM3dqOoBSVPkfX0TwVYmFzIIHiw=/https://cdn.podigee.com/uploads/u5785/bd4a70bc-4aa3-4e7e-a7c7-1429ab3ab503.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/b765c28c-5676-43f7-bcf0-183be7c5af49" target="_blank">
         <b>Fairquatscht - Der Nachhaltigkeits-Podcast</b>
@@ -312,7 +285,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://www.deutschlandfunk.de/media/files/f/fb399a0595e3d27490b2ca1009c62ed2v3.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/a1a64747-8e46-4515-b619-3554e4dd0995" target="_blank">
         <b>Freistil - Deutschlandfunk</b>
@@ -323,7 +295,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://i1.sndcdn.com/avatars-000148390308-9w4vwo-original.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/d3d107b6-3cbb-44d7-b9a4-f9437d7e6b47" target="_blank">
         <b>Kanzlei WBS</b>
@@ -333,7 +304,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www.kuechenstud.io/podcasts/kuechenradio/kr_2000.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/b74c088f-2738-419b-84ca-94218ea6a112" target="_blank">
         <b>Küchenradio</b>
@@ -344,7 +314,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://i1.sndcdn.com/avatars-000698074525-wdxi0e-original.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/1fc55cd1-8c86-4431-848e-09132feaccb7" target="_blank">
         <b>Smarter leben - Der Ideen-Podcast</b>
@@ -355,7 +324,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="https://www1.wdr.de/mediathek/audio/sendereihen-bilder/wdr_sendereihenbild100~_v-Podcast.jpg" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/93e68420-0bb6-4ecc-89f1-dc2b5f3dc401" target="_blank">
         <b>WDR ZeitZeichen</b>
@@ -365,7 +333,6 @@ Weiter geht es mit den Newcomern. Diese Podcasts sind erst kürzlich (wieder) in
   </tr>
   <!-- ------------------------------------------------------------------- -->
   <tr>
-    <td><img src="http://audio.zeit.de/podcast/dr-max-video/zeitwissen-video-logo.png" width="100" /></td>
     <td>
       <a href="https://castro.fm/podcast/1d717871-3560-4a36-acdf-fe0810558577" target="_blank">
         <b>ZEIT Wissen – Dr. Max erklärt die Welt</b>

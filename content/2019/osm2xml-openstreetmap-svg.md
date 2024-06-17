@@ -9,8 +9,6 @@ post: true
 draft: false
 ---
 
-# OSM2XML
-
 Ich möchte euch heute ein cooles Projekt vorstellen. [Der Hase](https://twitter.com/mhaseneyer/status/1170462635214745600) nutzt die Zeit während seines Spezialprojektes sehr effektiv und hat am Wochenende ein [Python-Projekt auf GitHub](https://github.com/mhaseneyer/osmxml) geladen.
 
 Mit dem Skript könnt ihr Daten aus [OpenStreetMaps](https://www.openstreetmap.org) als XML oder SVG exportieren. Das ist super-nützlich, wenn ihr eine skalierbare Grafik vom "Grundriss" eurer Heimatstadt, eures [Lieblingsbundeslandes](https://shop.baden-wuerttemberg.de/out/pictures/generated/product/1/665_665_75/bw_aufkleber_nett_hier_665x665.png), eurer Lieblingsinsel, [Bielefeld](https://www.openstreetmap.org/relation/62646) oder [Trinidad und Tobago](https://www.openstreetmap.org/relation/555717) braucht. 
