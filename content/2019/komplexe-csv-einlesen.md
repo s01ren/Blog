@@ -20,6 +20,7 @@ Stellen wir uns dazu vor, dass mit der Maschine die Inhaltsstoffe verschiedener 
 
 Immernoch unklar? Dann werft doch mal einen Blick auf das folgende Beispiel.
 
+<figure>
 <table>
 	<colgroup>
 		<col width="20%" />
@@ -67,7 +68,9 @@ Immernoch unklar? Dann werft doch mal einen Blick auf das folgende Beispiel.
         </tr>
 	</tbody>
 </table>
-<p style="text-align:right">Beispiel des Burger-CSVs</p>
+<figcaption>Beispiel des Burger-CSVs</figcaption>
+<figure>
+
 
 
 

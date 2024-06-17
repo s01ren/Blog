@@ -48,14 +48,15 @@ Check out my [`/deaults`](../defaults) page for a more in-depth overview of my d
 - 🍽️ Recepies: Mela
 - ☁️ Cloud Sync: iCloud + Synology
 
+# Blog 
+Check out the other posts, I wrote about [blogging](/tags/blogging).
 
-
-
-Blog 
 - Hugo
 - Uberspace
 
-Outdoor
+# Outdoor
+Check out the other posts, I wrote about my adventures [outdoors](/tags/outdoors).
+
 - 24l Deuter
 - 40l Deuter
 - First Aid
@@ -65,15 +66,19 @@ Outdoor
 - Besteck 
 - Packsäcke
 
-Watches 
+# Watches 
+Check out the other posts, I wrote about [my watch collection](/tags/watches).
+
 - Opas
 - Sternglas Hamburg
 - Garmin Fenix 7
 
-Camera
+# Camera
 - Olympus OMD 10?
 
-Bike
+# Bike
+Check out the other posts, I wrote about [biking](/tags/biking).
+
 - Cube Road SL
 - Cube Nuroad Hybrid
 - Hip Back
@@ -88,18 +93,8 @@ Bike
 - Trikot
 - Weste
 - Regenjacke 
-- Armlinge
-- Beinlinge
 - Multitool
 - Reifenheber 
 - Drehmoment
 
-Car
-- >10yo BMW F20
-
-Home DIY
-- Bosch Bohrmaschine 
-- Bosch Maus
-- Bosch Zamo
-- Imbus Set
 
