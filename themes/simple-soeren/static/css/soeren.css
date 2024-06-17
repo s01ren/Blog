@@ -5,22 +5,24 @@
     --yellow-weak: #FFECB3;
     --blue-strong: #2196F3;
     --blue-weak: #64B5F6;
-    --notice-color: black;
+    --notice-color-pink: black;
+    --notice-color-yellow: black;
   }
 
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --notice-color: white;
+      --notice-color-pink: white;
+      --notice-color-yellow: black;
     }    
   }
 
 .pink {
-    color: var(--notice-color);
+    color: var(--notice-color-pink);
     background-color: var(--pink-weak);
   }
 
   .yellow {
-    color: var(--notice-color);
+    color: var(--notice-color-yellow);
     background-color: var(--yellow-weak);
   }
