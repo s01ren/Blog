@@ -10,7 +10,7 @@ draft: false
 
 Natürlich gibt es einfachere Dinge, als Daten in R einzulesen. Und trotzdem ist es zumindest seit der Einführung des [`tidyverse`](https://www.tidyverse.org/) und den damit propagierten *tidy data principles* sehr viel einfacher geworden saubere Daten zu laden. Leider hat nicht jeder Sensor-Hersteller das [Paper von Hadley Wickem](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) gelesen.
 
-Dieser Tage ist eine sehr spannende Aufgabe auf meinem Schreibtisch gelandet. Es klang zunächst so einfach: Wir haben da eine Maschine. Die misst etwas und schreibt ihre Ergebnisse in eine Textdatei. Diese müsste eingelesen und weiterverarbeitet. Ich dachte, dass sich das relativ leicht mit `read_delim()` lösen lassen können müsste. Dachte ich...
+Dieser Tage ist eine sehr spannende Aufgabe auf meinem Schreibtisch gelandet. Es klang zunächst so einfach: Wir haben da eine Maschine. Die misst etwas und schreibt ihre Ergebnisse in eine Textdatei. Diese müsste eingelesen und weiterverarbeitet werden. Ich dachte, dass sich das relativ leicht mit `read_delim()` lösen lassen können müsste. Dachte ich...
 
 ### Das Problem
 
@@ -69,7 +69,7 @@ Immernoch unklar? Dann werft doch mal einen Blick auf das folgende Beispiel.
 	</tbody>
 </table>
 <figcaption>Beispiel des Burger-CSVs</figcaption>
-<figure>
+</figure>
 
 
 

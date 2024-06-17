@@ -33,9 +33,7 @@ Dafür werden wir ...
   - Eine Anleitung zur Installation von git findet ihr hier: [https://book.git-scm.com](https://book.git-scm.com)
   - Wie man Hugo installiert, steht auf der Hugo-Webseite: [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/)
 
-Solltet ihr, wie ich aktuell, an einem Windows-PC sitzen hilft euch vielleicht auch dieses Video weiter. Gleiche Videos gibt es auch für andere Betriebssysteme.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G7umPCU-8xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Solltet ihr, wie ich aktuell, an einem Windows-PC sitzen hilft euch vielleicht auch [dieses Video](https://www.youtube.com/embed/G7umPCU-8xc) weiter. Gleiche Videos gibt es auch für andere Betriebssysteme.
 
 # Hugo-Blog anlegen
 
@@ -49,7 +47,7 @@ Ist Hugo installiert, könnt ihr mit `hugo new site <sitename>` einen neuen Blog
 
 Eine Hugo-Website kommt ohne Theme. Das müssen wir also als nächstes herunterladen. Ich mag das [Base16-Theme](https://github.com/htdvisser/hugo-base16-theme). Falls euch das nicht zusagt, findet ihr [hier](https://themes.gohugo.io/) aber sicher ein oder zwei Alternativen. 
 
-Das Theme müsst ihr in den Ornder `themes` eurer eben erstellten Seite herunterladen.
+Das Theme müsst ihr in den Ordner `themes` eurer eben erstellten Seite herunterladen.
 
 ```
 [Batman@lokal ~]$ cd hugoblog.com/themes
