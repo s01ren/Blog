@@ -26,6 +26,6 @@ Mein Workflow gestaltet sich nun wie folgt:
 1. Innerhalb von Working Copy dupliziere ich ein existierendes Markdown-File als Grundlage für den neuen Artikel und passe den YAML-Header an.
 1. Im integrierten Texteditor öffne ich die neue Datei und schreibe den Artikel. Für ein bisschen mehr Syntax-Highlighting, kann man die Datei auch in einem externen Editor (bspw. Textastic) öffnen.
 1. Wenn ich Screenshots oder andere Dateien einbinden möchte, speichere ich diese über die iOS-Dateien-App direkt im `static`-Ordner des Repositories. 
-1. Wenn ich fertig bin, nutze ich Working Copy um die Änderungen zu committen und anschließend ins Repository zu pushen. Der uberspace aktualisiert dann wie beschrieben automatisch den Blog unter [gluecko.se](https://gluecko.se)
+1. Wenn ich fertig bin, nutze ich Working Copy um die Änderungen zu committen und anschließend ins Repository zu pushen. Der uberspace aktualisiert dann automatisch den Blog. 
 
 Einfacher gehts kaum. 
