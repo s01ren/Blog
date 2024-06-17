@@ -1,6 +1,6 @@
 ---
 title: My Default Apps as of mid 2024
-date: 2024-01-01T19:00:00
+date: 2024-06-01T19:00:00
 author: soeren
 tags:
   - phone
@@ -11,3 +11,13 @@ post: true
 <p class="notice">
   This is a placeholder.
 </p>
+
+<article class="pink">
+<h2>Test</h2>
+lorem impsum
+</article>
+
+<article class="yellow">
+<h2>Test</h2>
+lorem impsum
+</article>

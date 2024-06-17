@@ -6,6 +6,7 @@ tags:
   - hiking
   - outdoors
 post: true
+draft: true
 ---
 
 <p class="notice">

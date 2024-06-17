@@ -14,9 +14,25 @@ For a given taxonomy, renders a list of terms assigned to the page.
   {{- $label := (index . 0).Parent.LinkTitle }}
   <div>
     <hr>
-    <b>{{ $label }}:</b>
     {{- range . }}
-      <a class="button" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
     {{- end}}
   </div>
 {{- end }}
+
+<hr>
+<article class="pink" style="text-align: center;">
+  <b>Reply to this post</b>
+  <br>
+  <small>I used to have a comments box on this blog, but found that maintaining another system and dealing with the cookies is cumbersome. 
+    So, if you have any thoughts on what I wrote in this article, please write me an email and we can have a conversation about it.</small>
+  <br><a href="mailto:blog@gluecko.se?subject=Reply to: {{ .Title }}&body=Link to post: {{ .Permalink }}">reply via email ✉️</a>
+</article>
+
+<hr>
+<article class="yellow" style="text-align: center;">
+  <b>Enjoyed reading this?</b>
+  <br>
+  <small>I put a lot of work into maintaining this blog and I really enjoy the interactions I get with you, dear readers. I you liked what you just read and want to do me a little favor, please tip me a cup of coffee as it's the fuel that keeps me going: </small>
+  <br><a href="https://ko-fi.com/s01ren">buy me a coffee ☕️</a>
+</article>
