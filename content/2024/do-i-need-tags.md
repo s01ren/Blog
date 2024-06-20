@@ -6,7 +6,6 @@ tags:
   - meta 
   - blogging
 post: true
-draft: true
 ---
 
 This blog is based on [Hugo](/tags/hugo) and comes with built-in tags. It even [provides a page](/tags) with a list of all tags used on this blog. Mine is not very polished, because I barely used it. 
