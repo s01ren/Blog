@@ -44,6 +44,7 @@ No update.
 
 🌐 **Browser: Arc**
 Last year, Safari was my default browser. This event introduced me to [Arc](https://arc.net/). And while I needed a couple of trials - I am now convinced that Arc is my new standard, once two things are shipped: an iPad app and the Noir extension. 
+[Update - 2024-06-20] Arc has a dedicated iPad version now ✅
 
 💬 **Chat: Signal, WhatsApp**
 No change. I have Telegram Threema, and Matrix - but barely use them. 
