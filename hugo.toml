@@ -16,6 +16,14 @@ weight = 10
 name = "Slashes"
 pageRef = "/slashes"
 weight = 20
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 30
+[[menu.main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 40
 
 
 defaultContentLanguage = 'en'

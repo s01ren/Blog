@@ -1,2 +1,7 @@
-<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+<!-- <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1> --> 
+<br>
+<a href="{{ .Site.BaseURL }}">
+    <img src="{{.Site.BaseURL}}/logo.svg"/>
+</a>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
