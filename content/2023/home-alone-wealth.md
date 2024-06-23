@@ -1,8 +1,9 @@
 ---
-title: "Home Alone & Rich"
+title: Home Alone & Rich
 date: 2023-12-22T16:30:00+01:00
-author: "soeren"
-tags: ["christmas", "movie"]
+author: soeren
+tags:
+  - misc
 post: true
 draft: false
 ---

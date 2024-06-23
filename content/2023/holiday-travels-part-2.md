@@ -1,9 +1,9 @@
-
 ---
-title: "🎄 Holiday Travels - Part 2"
+title: "Holiday Travels - Part 2"
 date: 2023-12-10T17:30:00+01:00
 author: "soeren"
-tags: ["deutsche-bahn", "christmas", "travel"]
+tags: 
+  - travel
 post: true
 draft: false
 ---

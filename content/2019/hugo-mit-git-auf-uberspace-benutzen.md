@@ -1,12 +1,12 @@
 ---
-title: "Hugo mit Git auf dem uberspace nutzen"
-date: "2019-09-06"
-author: "soeren"
-tags: 
+title: Hugo mit Git auf dem uberspace nutzen
+date: 2019-09-06
+author: soeren
+tags:
   - uberspace
   - hugo
-  - blogging
-  - git
+  - blog
+  - tech
 post: true
 draft: false
 ---

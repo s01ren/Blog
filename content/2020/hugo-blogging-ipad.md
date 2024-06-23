@@ -2,11 +2,10 @@
 title: Publish to Blog from iPad
 date: 2020-12-28T12:00:00+01:00
 author: soeren
-tags: 
-  - blogging
-  - git
+tags:
   - hugo
-  - ios
+  - blog
+  - tech
 post: true
 draft: false
 ---

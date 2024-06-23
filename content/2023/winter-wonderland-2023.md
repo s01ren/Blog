@@ -1,9 +1,9 @@
-
 ---
 title: "I went to winter wonderland, and all I got was ..."
 date: 2023-12-17T11:00:00+01:00
 author: "soeren"
-tags: ["travel", "snow", "winter"]
+tags:
+  - travel
 post: true
 draft: false
 ---

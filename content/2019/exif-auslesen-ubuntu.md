@@ -1,9 +1,10 @@
 ---
-title: "EXIF Daten unter Ubuntu auslesen"
-date: "2019-07-10"
-author: "soeren"
-tags: 
-  - ubuntu
+title: EXIF Daten unter Ubuntu auslesen
+date: 2019-07-10
+author: soeren
+tags:
+  - tech
+  - script
 post: true
 draft: false
 ---

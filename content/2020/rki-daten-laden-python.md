@@ -1,8 +1,10 @@
 ---
-title: "Corona-Daten des RKI mit Python herunterladen"
+title: Corona-Daten des RKI mit Python herunterladen
 date: 2020-12-26T17:57:33+01:00
-author: "soeren"
-tags: ["telegram", "python", "open-source", "bot", "corona"]
+author: soeren
+tags:
+  - script
+  - data
 post: true
 draft: false
 ---

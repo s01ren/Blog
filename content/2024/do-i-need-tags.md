@@ -1,10 +1,9 @@
 ---
-title: "Do I need tags?"
+title: Do I need tags?
 date: 2024-06-20T18:00:00+01:00
-author: "soeren"
-tags: 
-  - meta 
-  - blogging
+author: soeren
+tags:
+  - blog
 post: true
 ---
 

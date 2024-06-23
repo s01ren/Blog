@@ -3,8 +3,7 @@ title: My Default Apps as of mid 2024
 date: 2024-06-19T19:00:00+01:00
 author: soeren
 tags:
-  - phone
-  - blogging
+  - blog
 post: true
 ---
 

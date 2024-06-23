@@ -1,10 +1,10 @@
 ---
-title: "OSM Daten als SVG exportieren"
-date: "2019-09-09"
-author: "soeren"
-tags: 
-  - osm
-  - python
+title: OSM Daten als SVG exportieren
+date: 2019-09-09
+author: soeren
+tags:
+  - script
+  - tech
 post: true
 draft: false
 ---

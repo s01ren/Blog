@@ -3,7 +3,7 @@ title: Office vs. "Home-Office"
 date: 2024-01-09T19:00:00
 author: soeren
 tags:
-  - work
+  - misc
 post: true
 ---
 In a few days, my parental leave comes to an end and I will go back to work. This will confront me with the question how much time I want to spend in office or work remotely. Time for reflection.

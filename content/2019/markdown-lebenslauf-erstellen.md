@@ -1,12 +1,14 @@
 ---
-title: "Lebenslauf mit Markdown erstellen"
-date: "2019-07-08"
-author: "soeren"
-tags: ["markdown", "ubuntu", "open-source"]
+title: Lebenslauf mit Markdown erstellen
+date: 2019-07-08
+author: soeren
+tags:
+  - script
+  - tech
 post: true
 draft: false
 ---
-
+s
 Zum Glück müssen die meisten von uns nicht jeden Tag den eigenen Lebenslauf zu Papier bringen. Wann genau war ich nochmal bei Firma X? Wie lang dauerte das Praktikum in München? Und wie war nochmal der genaue Titel der Bachelorarbeit? ... 
 
 Das eh schon aufwendige Prozedere wird noch ein bisschen aufwendiger, wenn man zusätzlich die Formatierungseigenheiten von Word verstehen muss. Richtig schön wird es, wenn sich Dateiformate geändert und einst schön formatierte Dokumente mittlerweile gruselig aussehen. 

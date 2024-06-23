@@ -1,8 +1,9 @@
 ---
-title: "🍔 Fat Boy at 40"
+title: 🍔 Fat Boy at 40
 date: 2024-01-12T16:00:00+01:00
-author: "soeren"
-tags: ["health", "fat boy"]
+author: soeren
+tags:
+  - fatboy
 post: true
 draft: false
 ---

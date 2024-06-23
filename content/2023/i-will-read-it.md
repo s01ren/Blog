@@ -1,8 +1,9 @@
 ---
-title: "I'll read it"
+title: I'll read it
 date: 2023-12-29T19:00:00
-author: "soeren"
-tags: ["blogging"]
+author: soeren
+tags:
+  - blog
 post: true
 ---
 

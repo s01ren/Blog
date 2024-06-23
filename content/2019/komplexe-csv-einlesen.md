@@ -1,9 +1,10 @@
 ---
-title: "Komplexe CSV-Dateien einlesen"
-date: "2019-08-01"
-author: "soeren"
-tags: 
-  - r
+title: Komplexe CSV-Dateien einlesen
+date: 2019-08-01
+author: soeren
+tags:
+  - script
+  - data
 post: true
 draft: false
 ---
