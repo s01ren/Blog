@@ -1,7 +1,7 @@
 # Basic config
-#baseURL = "https://soeren.me/"
+#baseURL = "https://gluecko.se"
 baseURL = "https://s01ren.github.io/Blog/"
-title = "Soren's Blog"
+title = "gluecko.se"
 
 theme = "simple-soeren"
 

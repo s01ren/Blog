@@ -2,7 +2,8 @@
 title: "March Review"
 date: 2024-04-05T10:00:00+01:00
 author: "soeren"
-tags: ["monthly-review"]
+tags:
+  - journal
 post: true
 draft: false
 ---
