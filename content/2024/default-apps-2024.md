@@ -76,3 +76,10 @@ No change. Love [the app](https://apps.apple.com/de/app/castro-podcast-player/id
 No change - but I like that Apple is building a dedicated app for this. I will try it out once released. 
 
 Anything changed on your defaults? 
+
+
+<article class="yellow" style="text-align: center;">
+  <b>Update</b>
+  <br>
+  Zach wrote an update, too: http://flower.codes/2024/06/24/default-apps.html
+</article>
