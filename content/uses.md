@@ -1,7 +1,11 @@
 ---
 title: /uses
 ---
- 
+
+<article class=„yellow“ style=„text-align: center;“>
+  work in progress
+</article>
+
  This is another one of my [Slash Pages](../slashes) - created to list the things I use on a daily basis. 
 
 # Tech Stack

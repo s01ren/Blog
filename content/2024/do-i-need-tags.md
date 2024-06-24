@@ -16,6 +16,6 @@ Question is: *should I invest time streamlining this?*
 
 Hm. I think the answer depends on the potential benefit of a well structured taxonomy. On this blog, it’s mainly used to populate the „if you liked this, you may want to read …“ section below each post. I use it to find an older post - if I remember the tag - because scrolling through the tag page with less entries is faster. Apart from that? Good question. 
 
-Current plan is, since I am anyway working on a new theme for this blog (on my list [since March](/2024/march-2024), I will give the tags overview page a facelift and use the opportunity - assuming motivation lasts - to structure the tags, at least once. 
+Current plan is, since I am anyway working on a new theme for this blog (on the list [since March](/2024/march-2024)), I will give the tags overview page a facelift and use the opportunity - assuming motivation lasts - to structure the tags, at least once. 
 
 In a few months, I will check if I was able to follow the structure or if chaos is back. And if the latter happens - does someone has a better idea how to solve this? 🤔
