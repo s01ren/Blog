@@ -1,8 +1,10 @@
 ---
-title: "Corona-Daten des RKI mit Python visualisieren"
+title: Corona-Daten des RKI mit Python visualisieren
 date: 2020-12-27T15:00:00+01:00
-author: "soeren"
-tags: ["telegram", "python", "open-source", "bot", "corona"]
+author: soeren
+tags:
+  - script
+  - data
 post: true
 draft: false
 ---

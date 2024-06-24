@@ -1,8 +1,9 @@
 ---
-title: "🎄 Holiday Travels Booked"
+title: 🎄 Holiday Travels Booked
 date: 2023-11-29T08:00:00+01:00
-author: "soeren"
-tags: ["travel", "deutsche bahn", "christmas"]
+author: soeren
+tags:
+  - travel
 post: true
 draft: false
 ---

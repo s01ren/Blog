@@ -1,8 +1,10 @@
 ---
-title: "Corona-Daten des RKI mit Python an Telegram-Kanal senden"
+title: Corona-Daten des RKI mit Python an Telegram-Kanal senden
 date: 2020-12-27T17:00:00+01:00
-author: "soeren"
-tags: ["telegram", "python", "open-source", "bot", "corona"]
+author: soeren
+tags:
+  - script
+  - data
 post: true
 draft: false
 ---

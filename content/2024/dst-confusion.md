@@ -3,7 +3,7 @@ title: DST Confusion
 date: 2024-03-21T19:00:00
 author: soeren
 tags:
-  - work
+  - misc
 post: true
 ---
 It’s this time of the year again. Working in a global environment, at some point, you’ll be confronted with the daylight saving time confusion.

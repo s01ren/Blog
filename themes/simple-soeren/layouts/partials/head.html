@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}/css/soeren.css">
 
-<link rel="alternate" title="gluecko.se" type="application/rss+xml" href="{{.Site.BaseURL}}index.xml">
+<link rel="alternate" title="{{.Site.BaseURL}}" type="application/rss+xml" href="{{.Site.BaseURL}}/index.xml">
+
+<link rel="shortcut icon" href="{{.Site.BaseURL}}/favicon.ico" />
 
 {{ $title := print .Site.Title " | " .Title }}
 {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}

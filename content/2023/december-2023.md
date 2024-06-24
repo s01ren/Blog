@@ -2,7 +2,8 @@
 title: "🗓️ December 2023"
 date: 2023-12-30T17:00:00+01:00
 author: "soeren"
-tags: ["monthly-review"]
+tags: 
+  - journal
 post: true
 draft: false
 ---

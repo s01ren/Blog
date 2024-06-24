@@ -1,8 +1,9 @@
 ---
-title: "This is democracy day!"
+title: This is democracy day!
 date: 2021-01-20T19:00:05+01:00
-author: "soeren"
-tags: ["100daystooffload", "usa"]
+author: soeren
+tags:
+  - 100daystooffload
 post: true
 draft: false
 nocomment: false

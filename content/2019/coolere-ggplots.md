@@ -1,11 +1,10 @@
 ---
-title: "Etwas coolere ggplots erstellen"
-date: "2019-10-08"
-author: "soeren"
-tags: 
-  - r
-  - tidytuesday
-  - baden-wuerttemberg
+title: Etwas coolere ggplots erstellen
+date: 2019-10-08
+author: soeren
+tags:
+  - script
+  - data
 post: true
 draft: false
 ---

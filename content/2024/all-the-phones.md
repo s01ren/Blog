@@ -3,7 +3,7 @@ title: All the phones I owned
 date: 2024-03-07T19:00:00
 author: soeren
 tags:
-  - phone
+  - tech
 post: true
 ---
 I paused blogging for a while, because re-starting work and having a sick baby at home took more of my energy than I thought. Hopefully, I can find more time soon again, because I miss it. 🙂

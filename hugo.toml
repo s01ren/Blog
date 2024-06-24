@@ -1,7 +1,7 @@
 # Basic config
-#baseURL = "https://soeren.me/"
+#baseURL = "https://gluecko.se"
 baseURL = "https://s01ren.github.io/Blog/"
-title = "Soren's Blog"
+title = "gluecko.se"
 
 theme = "simple-soeren"
 
@@ -16,6 +16,14 @@ weight = 10
 name = "Slashes"
 pageRef = "/slashes"
 weight = 20
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 30
+[[menu.main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 40
 
 
 defaultContentLanguage = 'en'

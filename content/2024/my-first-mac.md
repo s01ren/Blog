@@ -1,8 +1,9 @@
 ---
-title: "💻 My First Mac"
+title: 💻 My First Mac
 date: 2024-01-26T10:00:00+01:00
-author: "soeren"
-tags: ["apple"]
+author: soeren
+tags:
+  - tech
 post: true
 draft: false
 ---

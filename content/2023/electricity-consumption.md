@@ -1,9 +1,12 @@
-
 ---
-title: "Electricity Consumption"
+title: Electricity Consumption
 date: 2023-12-05T09:00:00+01:00
-author: "soeren"
-tags: ["sustainability", "home", "electricity-consumption"]
+author: soeren
+tags:
+  - sustainability
+  - home
+  - electricityconsumption
+  - data
 post: true
 draft: false
 ---

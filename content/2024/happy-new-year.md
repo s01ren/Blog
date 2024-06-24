@@ -1,8 +1,9 @@
 ---
-title: "🥂 Happy New Year"
+title: 🥂 Happy New Year
 date: 2024-01-01T00:00:00+01:00
-author: "soeren"
-tags: []
+author: soeren
+tags:
+  - misc
 post: true
 draft: false
 ---

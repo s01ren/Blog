@@ -1,8 +1,12 @@
 ---
-title: "My blogging workflow as of late 2023"
+title: My blogging workflow as of late 2023
 date: 2023-11-29T20:00:00+01:00
-author: "soeren"
-tags: ["blog", "hugo", "uberspace", "git"]
+author: soeren
+tags:
+  - blog
+  - hugo
+  - uberspace
+  - tech
 post: true
 draft: false
 ---
